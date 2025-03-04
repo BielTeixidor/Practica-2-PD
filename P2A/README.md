@@ -63,4 +63,4 @@ void loop() {
 }
 
 ```
-![Foto](fotoBoton1.jpg)
+![Foto](fotoBoton1.png)
