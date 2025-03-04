@@ -63,4 +63,3 @@ void loop() {
 }
 
 ```
-![Foto](P2A/FotoBoton1.png)
